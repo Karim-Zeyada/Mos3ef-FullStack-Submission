@@ -109,13 +109,17 @@ The database utilizes a relational model to ensure data integrity.
 ### 5.1 Design Philosophy
 The interface prioritizes accessibility and ease of use, utilizing a "Medical Blue" color palette for trust and calmness.
 
-### 5.2 Key Screens
+## 5.2 Design Source
+Detailed high-fidelity mockups and interaction flows are available in the official Figma file:
+*   [Mos3ef Figma Design](https://www.figma.com/design/NUoTfR9uxMYZKeBwjitpAC/Mos3ef?node-id=19-2&t=rzZzpDjAflKFJ13L-1)
+
+### 5.3 Key Screens
 *   **Landing Page:** Centralized search bar with category filters.
 *   **Results Grid:** Service cards displaying price, rating, and hospital info.
 *   **Comparison Modal:** Side-by-side view of selected services highlighting best options.
 *   **Hospital Dashboard:** Analytics cards (Views, Ratings) and service management table.
 
-### 5.3 UX Considerations
+### 5.4 UX Considerations
 *   **Feedback:** Toast notifications for user actions.
 *   **Validation:** Real-time form validation.
 *   **Performance:** Skeleton loaders during data fetching.

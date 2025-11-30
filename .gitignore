@@ -1,0 +1,17 @@
+# .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+[Dd]ebug/
+[Rr]elease/
+
+# Node.js
+node_modules/
+dist/
+build/
+.env
+.DS_Store
+coverage/
+.npm/

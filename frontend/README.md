@@ -1,10 +1,10 @@
 # Mos3ef Frontend
 
-**Mos3ef** is a modern, responsive web application built with **React 19** and **Vite**, designed to provide a seamless experience for patients and hospitals. It features a clean UI powered by **Tailwind CSS 4** and **Radix UI**.
+**Mos3ef** is a modern, responsive web application built with **React 19** and **Vite**, designed to provide a seamless experience for patients and hospitals. It features a clean UI powered by **Tailwind CSS 4** and **shadcn/ui**.
 
 ## 🚀 Features
 
-*   **Modern UI/UX:** Built with Tailwind CSS and Radix UI for accessible and beautiful components.
+*   **Modern UI/UX:** Built with Tailwind CSS and shadcn/ui for accessible and beautiful components.
 *   **Fast Performance:** Powered by Vite for lightning-fast development and building.
 *   **Interactive Maps:** Integrated Leaflet maps for hospital location services.
 *   **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices.
@@ -21,7 +21,7 @@
 *   **Forms:** [React Hook Form](https://react-hook-form.com/)
 *   **Icons:** [Lucide React](https://lucide.dev/)
 *   **Maps:** [React Leaflet](https://react-leaflet.js.org/)
-*   **UI Components:** [Radix UI](https://www.radix-ui.com/)
+*   **UI Components:** [shadcn/ui](https://ui.shadcn.com/)
 
 ## 📂 Project Structure
 
